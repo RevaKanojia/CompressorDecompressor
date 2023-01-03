@@ -29,6 +29,7 @@ public class Compressed {
         gzip.close();
         fout.close();
         fin.close();
+        //End of the program
         
     }
    
